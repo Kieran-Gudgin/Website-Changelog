@@ -5,8 +5,8 @@ All notable changes to this website will be documented in this file.
 
 ## [1.0] - 09-11-2020
 ### Added Five New Songs
-
-# Goodbye Memory Lane
+###
+Goodbye Memory Lane
 ###
 Deadman's Gun - Red Dead Redemption
 ###
