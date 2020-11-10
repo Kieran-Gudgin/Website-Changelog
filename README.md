@@ -15,3 +15,11 @@ Life Is A Highway - Rascal Flatts
 Dirty Paws - Of Monsters And Men
 ###
 We Will Rise Again - Into The Flames (OST) Dan Romer ft. Meredith Godreau
+
+## [1.1] - 10-11-2020
+### Added New Song
+###
+Scatman's World · Scatman John
+### Removed Song
+###
+Dirty Paws - Of Monsters And Men
